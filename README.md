@@ -1,4 +1,4 @@
 # manasdemo
 this is my first git  repositry.
 <br>
-author - Manas parmar
+author - Manas singh 
